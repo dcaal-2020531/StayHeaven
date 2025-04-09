@@ -26,7 +26,8 @@ const hotelSchema = Schema(
         city:{
             type:String,
             required:[true,'City is required']
-        }
+        },
+        //horario
     }
 )
 
